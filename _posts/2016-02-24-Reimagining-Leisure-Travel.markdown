@@ -47,30 +47,38 @@ Fig: This picture summarizes the current workflow:
 
 Pain points for travelers
 1. Lack of modern travel research tools
+
 Traveler has to spend considerable time planning the travel/vacation. This includes        researching, shortlisting and finalizing destinations. Travelers have to research and stitch together travel experience they aspire.
 
 2. Lack of ‘Experience Ratings'
+
 While players like routehappy.com, Zagat and Michelin have created uniform rating systems for air travels and restaurants, no such ratings are available for many other travel experiences. Travelers have to rely on non-standard ratings aggregated using consumer provided star-ratings and comments
 
 3. Lack of flexibility
+
 Most consumers take a narrow approach to travel planning that over emphasizes date availability and prices, and end up with loss of flexibility that can impact travel experience. Design of first generation OTA websites reinforces this approach. This can lead to vanilla travel experience and limited flexibility during travel.
 
 Pain points for Service Providers
 
 1. Downward pressure on inventory prices and business margins
+
 OTAs account for large portion of bookings for service providers (mainly hotels and air travel) and charge a premium for order flow in terms of commissions. Further, OTA market has consolidated around 3 or 4 major OTAs and resulting lack of distribution channels puts downward pressure on inventory pricing
 
 2. Loss of customer loyalty
+
 OTA-driven travel bookings undermine service provider loyalty programs and result in ever increasing cost of customer acquisition.
 
   Pain points for OTAs
 1. High cost of customer acquisition
+
 In the current model, the OTA-Traveler relationship is very transaction oriented. OTAs have to keep on spending on marketing and customer acquisition ( e.g. Ad-words) to get repeat transactions.
 
 2. Market saturation
+
 The Big-three OTAs (Expedia, Priceline, Trip Advisor ) combined account for most of online travel bookings in US and Europe. They face strong local completion in newer markets such as China and India and are looking for newer growth markets (e.g. restaurant reservations)
 
 3. Newer alternatives
+
 Rise of sharing economy and players like AirBnB continue to shift travel dollars from hotels to options such as peer-to-peer lodging
 
 Opportunities for Next-Gen Meta-OTA
@@ -81,6 +89,7 @@ The Product
 Next-gen OTAs have an opportunity to design the travel experience from Traveler’s perspective. This requires a Traveler-First approach that focuses on the traveler and his/her aspirations and takes an end-to-end view of the travel experience instead of jumping right into and being limited to booking transactions.
 
 Focus on Experiences
+
 Core component of this new Travel-first model are to start with designing various ‘experience templates’ that incorporate different types of services that together provide a certain type of experience.  For example, ‘Foodie Experience in France’ for foodies would include visits to acclaimed restaurants, visits to wineries in Bordeaux region etc., in addition to a quick visit to Versailles.
 
 Fig: OTA designing experience templates
@@ -99,6 +108,7 @@ From the traveler perspective, the classic discovery phase is replaced with ‘e
 Travelers can choose to partake in the travel experience with a predetermined groups (e.g. Family), solo or request to be matched other travelers looking for similar experience. Such aggregations also offer an opportunity to get better prices from the service providers. example: One ‘Biking inner lanes of Budapest’ peer-to-peer guide can offer better prices to a group of traveler.
 
 Fulfillment
+
 Standard services that make up the experience packages are fulfilled by service providers who programmatically bid to fulfill services in real-time as travelers are designing and pricing their ‘travel experiences’. Service provides include professional as well as peer to peer service providers.
 
 Bookings of Hotels, Air fares, Car rentals etc. is modeled as a service and  outsourced to classic OTA  (programmatically using OTA API)
