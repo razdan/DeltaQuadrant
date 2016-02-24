@@ -46,38 +46,38 @@ Fig: This picture summarizes the current workflow:
 3. During travel, travelers partake in various experiences based on individual preferences, traveler demographic and interests. Current set of OTAs play very insignificant  or no role in this stage.
 
 Pain points for travelers
-1. Lack of modern travel research tools
+Lack of modern travel research tools
 
 Traveler has to spend considerable time planning the travel/vacation. This includes        researching, shortlisting and finalizing destinations. Travelers have to research and stitch together travel experience they aspire.
 
-2. Lack of ‘Experience Ratings'
+Lack of ‘Experience Ratings'
 
 While players like routehappy.com, Zagat and Michelin have created uniform rating systems for air travels and restaurants, no such ratings are available for many other travel experiences. Travelers have to rely on non-standard ratings aggregated using consumer provided star-ratings and comments
 
-3. Lack of flexibility
+Lack of flexibility
 
 Most consumers take a narrow approach to travel planning that over emphasizes date availability and prices, and end up with loss of flexibility that can impact travel experience. Design of first generation OTA websites reinforces this approach. This can lead to vanilla travel experience and limited flexibility during travel.
 
 Pain points for Service Providers
 
-1. Downward pressure on inventory prices and business margins
+Downward pressure on inventory prices and business margins
 
 OTAs account for large portion of bookings for service providers (mainly hotels and air travel) and charge a premium for order flow in terms of commissions. Further, OTA market has consolidated around 3 or 4 major OTAs and resulting lack of distribution channels puts downward pressure on inventory pricing
 
-2. Loss of customer loyalty
+Loss of customer loyalty
 
 OTA-driven travel bookings undermine service provider loyalty programs and result in ever increasing cost of customer acquisition.
 
   Pain points for OTAs
-1. High cost of customer acquisition
+High cost of customer acquisition
 
 In the current model, the OTA-Traveler relationship is very transaction oriented. OTAs have to keep on spending on marketing and customer acquisition ( e.g. Ad-words) to get repeat transactions.
 
-2. Market saturation
+Market saturation
 
 The Big-three OTAs (Expedia, Priceline, Trip Advisor ) combined account for most of online travel bookings in US and Europe. They face strong local completion in newer markets such as China and India and are looking for newer growth markets (e.g. restaurant reservations)
 
-3. Newer alternatives
+Newer alternatives
 
 Rise of sharing economy and players like AirBnB continue to shift travel dollars from hotels to options such as peer-to-peer lodging
 
