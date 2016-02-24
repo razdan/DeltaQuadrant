@@ -31,9 +31,9 @@ Supply Side
 
     - Service Providers:  Hoteliers, Airlines, Car Rental, Other recreational service provides
     - Facilitators: Travel Agencies (traditional and OTA), Tour operators
-    -
+    
 
-Fig: This picture above summarizes the current workflow:
+Fig: This picture summarizes the current workflow:
 
 ![travel 1](https://cloud.githubusercontent.com/assets/9044334/13304067/a6176e0a-db07-11e5-8a7e-070c5b7df8a3.png)
 
