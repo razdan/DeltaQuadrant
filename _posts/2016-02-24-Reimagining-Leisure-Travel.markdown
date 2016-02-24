@@ -92,7 +92,7 @@ Focus on Experiences
 
 Core component of this new Travel-first model are to start with designing various ‘experience templates’ that incorporate different types of services that together provide a certain type of experience.  For example, ‘Foodie Experience in France’ for foodies would include visits to acclaimed restaurants, visits to wineries in Bordeaux region etc., in addition to a quick visit to Versailles.
 
-Fig: OTA designing experience templates
+Fig: OTAs designing experience templates
 
 
 ![travana 4](https://cloud.githubusercontent.com/assets/9044334/13304272/8d9c3eae-db08-11e5-84ac-362b564ca62d.png)
