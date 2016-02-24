@@ -20,7 +20,7 @@ International Leisure Travel Market
 The Players
 Demand Side
 
-    - Travellers
+    - Travelers
         - Families
         - Solo travelers ( mostly Millennials )
         - Travelers over 65 years of age
@@ -32,6 +32,10 @@ Supply Side
     -
 
 Fig: This picture above summarizes the current workflow:
+
+![travel 1](https://cloud.githubusercontent.com/assets/9044334/13303874/8f2f6e5a-db06-11e5-841c-ba7ab6748130.png)
+
+
 
 1. Prospective traveler researches travel destinations using various online and offline research/recommendations. Current set of OTAs play very limited role in this stage.
 
@@ -79,6 +83,12 @@ Core component of this new Travel-first model are to start with designing variou
 
 Fig: OTA designing experience templates
 
+
+![travel 4](https://cloud.githubusercontent.com/assets/9044334/13303901/b1313a92-db06-11e5-8c67-f6725a216780.png)
+
+
+
+
 Redefining Discovery by matching aspirational experiences to curated templates
 
 
@@ -91,7 +101,9 @@ Standard services that make up the experience packages are fulfilled by service 
 
 Bookings of Hotels, Air fares, Car rentals etc. is modeled as a service and  outsourced to classic OTA  (programmatically using OTA API)
 
-Fig
+
+
+![travel 3](https://cloud.githubusercontent.com/assets/9044334/13303886/9fb1a91e-db06-11e5-9cce-c9620cf49d84.png)
 
 Once the traveler purchases an experience package, next-gen OTA acts like a personal assistant keeping track of changes (and adjusting accordingly), providing updates on weather,  ‘packing list’ suggestions and information about local customs and trivia etc.
 
