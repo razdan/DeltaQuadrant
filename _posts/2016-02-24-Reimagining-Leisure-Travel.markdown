@@ -1,3 +1,5 @@
+Reimagining Leisure Travel 
+
 OTAs (Online Travel Agencies) have transformed leisure travel over last decade and now account for almost 40% of all travel bookings. Two key innovations introduced by first generation OTAs included ‘competitive price discovery and comparison' and 'booking convenience'. Our ubiquitous connectivity into digitial social fabric and recent innovations such as sharing economy and  peer-to-peer interactions are  presenting new opportunities for market-entry and value creation and capture  for next generation of OTAs.
 
 This note presents some ideas for next-gen OTAs for creating delightful experiences for leisure travelers over next decade.
