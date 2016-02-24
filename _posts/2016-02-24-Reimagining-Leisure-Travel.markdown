@@ -35,7 +35,7 @@ Supply Side
 
 Fig: This picture summarizes the current workflow:
 
-![travel 1](https://cloud.githubusercontent.com/assets/9044334/13304067/a6176e0a-db07-11e5-8a7e-070c5b7df8a3.png)
+![travana 1](https://cloud.githubusercontent.com/assets/9044334/13304317/c07efef6-db08-11e5-84c3-025f17cc751c.png)
 
 
 
@@ -86,7 +86,7 @@ Core component of this new Travel-first model are to start with designing variou
 Fig: OTA designing experience templates
 
 
-![travel 4](https://cloud.githubusercontent.com/assets/9044334/13304026/711619fe-db07-11e5-9842-aeeb07284e50.png)
+![travana 4](https://cloud.githubusercontent.com/assets/9044334/13304272/8d9c3eae-db08-11e5-84ac-362b564ca62d.png)
 
 
 
@@ -105,7 +105,7 @@ Bookings of Hotels, Air fares, Car rentals etc. is modeled as a service and  out
 
 
 
-![travel 3](https://cloud.githubusercontent.com/assets/9044334/13304043/88135e3c-db07-11e5-9062-114c93401035.png)
+![travana - 3](https://cloud.githubusercontent.com/assets/9044334/13304285/a0707f86-db08-11e5-867c-a44ebf046b19.png)
 
 Once the traveler purchases an experience package, next-gen OTA acts like a personal assistant keeping track of changes (and adjusting accordingly), providing updates on weather,  ‘packing list’ suggestions and information about local customs and trivia etc.
 
