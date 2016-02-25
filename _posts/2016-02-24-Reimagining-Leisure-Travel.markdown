@@ -128,7 +128,8 @@ Integration with various social services (Meerkat, Instagram etc.) allows the tr
 
 Travelers provide instant feedback for individual services adding immediacy and accuracy to the feedback system.
 
-Market Positioning and Entry
+<h3> Market Positioning and Entry <h3>
+
 The product described above is offered as a membership product with a nominal annual membership fee  (like Gilt etc.). The membership fee is used to establish the value perception and is not meant as a main source of revenue. Main source of revenue come as a % of transaction fee charged to service providers.
 
 The initial marketing strategy is to use digital placements in digital properties that target specific demographics. A select number of lottery (for members) that offers free or deeply discounted travel experiences will be used to launch a PR campaign to introduce the concept of Experience Travel.
