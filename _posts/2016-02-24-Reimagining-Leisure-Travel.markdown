@@ -1,6 +1,6 @@
 <h1> Reimagining Leisure Travel </h1>
 
-OTAs (Online Travel Agencies) have transformed leisure travel over last decade and now account for almost 40% of all travel bookings. Two key innovations introduced by first generation OTAs included ‘competitive price discovery and comparison' and 'booking convenience'. Our ubiquitous connectivity into digitial social fabric and recent innovations such as sharing economy and  peer-to-peer interactions are  presenting new opportunities for market-entry and value creation and capture  for next generation of OTAs.
+OTAs (Online Travel Agencies) have transformed leisure travel over last decade and now account for almost 40% of all travel bookings. Two key innovations introduced by first generation OTAs included ‘competitive price discovery and comparison' and 'booking convenience'. Ubiquitous connectivity into digitial social fabric and recent innovations such as sharing economy and  peer-to-peer interactions are  presenting new opportunities for market-entry and value creation/capture  for next generation of OTAs.
 
 This note presents some ideas for next-gen OTAs for creating delightful experiences for leisure travelers over next decade.
 
@@ -29,7 +29,7 @@ Demand Side
 
 Supply Side
 
-    - Service Providers:  Hoteliers, Airlines, Car Rental, Other recreational service provides
+    - Service Providers:  Hoteliers, Airlines, Car Rental, Dining and other recreational service provides
     - Facilitators: Travel Agencies (traditional and OTA), Tour operators
     
 
@@ -41,15 +41,15 @@ Fig: This picture summarizes the current workflow:
 
 1. Prospective traveler researches travel destinations using various online and offline research/recommendations. Current set of OTAs play very limited role in this stage.
 
-2. Traveler completes travel bookings using an OTA. Main considerations usually being availability dates and prices. Current set of OTAs heavily focus on value creation/capture in this stage.
+2. Traveler completes travel bookings using an OTA. Main considerations usually being desired/availability dates and prices. Current set of OTAs heavily focus on value creation/capture in this stage.
 
-3. During travel, travelers partake in various experiences based on individual preferences, traveler demographic and interests. Current set of OTAs play very insignificant  or no role in this stage.
+3. During travel, travelers partake in various experiences based on individual preferences, traveler demographic and interests. Current set of OTAs play very limited or no role in this stage.
 
 <h3> Pain points for travelers </h3>
 
 Lack of modern travel research tools
 
-Traveler has to spend considerable time planning the travel/vacation. This includes        researching, shortlisting and finalizing destinations. Travelers have to research and stitch together travel experience they aspire.
+Traveler has to spend considerable time planning the travel/vacation. This includes researching, shortlisting and finalizing destinations and activites. Travelers have to research and stitch together travel experience they aspire.
 
 Lack of ‘Experience Ratings'
 
@@ -128,7 +128,7 @@ Integration with various social services (Meerkat, Instagram etc.) allows the tr
 
 Travelers provide instant feedback for individual services adding immediacy and accuracy to the feedback system.
 
-<h3> Market Positioning and Entry <h3>
+<h3> Market Positioning and Entry </h3>
 
 The product described above is offered as a membership product with a nominal annual membership fee  (like Gilt etc.). The membership fee is used to establish the value perception and is not meant as a main source of revenue. Main source of revenue come as a % of transaction fee charged to service providers.
 
